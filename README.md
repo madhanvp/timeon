@@ -305,5 +305,3 @@ If you like this project, consider giving it a ⭐ on GitHub.
 It helps support the project and motivates future development.
 
 ---
-
-Made with ❤️ by **Madhan**
